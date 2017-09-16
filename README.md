@@ -1,2 +1,2 @@
-# A Website using MarkoJS
+# Sample Website using MarkoJS
 
